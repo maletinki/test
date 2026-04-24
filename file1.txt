@@ -3,3 +3,4 @@ Hello, World!
 check status
 
 new line
+Add string from echo
